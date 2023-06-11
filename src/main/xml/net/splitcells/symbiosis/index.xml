@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet attribute="text/xsl" href="xofi.html.xslt"?>
+<article
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xi="http://www.w3.org/2001/XInclude"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns="http://splitcells.net/sew.xsd"
+	xmlns:d="http://splitcells.net/den.xsd"
+	xsi:schemaLocation="http://splitcells.net/sew.xsd sew.xsd">
+	<meta>
+		<title>Project Symbiosis</title>
+		<title_detailed>Project Symbiosis</title_detailed>
+		<description>The purpose of this project is to examine intelligent things and
+			the living together of unlike beings.
+		</description>
+		<publication_date
+			year="2017"
+			month="09"
+			day_of_month="03" />
+		<license>standard</license>
+		<related_to>
+			<url>
+				<site_instance_purl />
+				/2016/10/11/projects
+			</url>
+		</related_to>
+		<d:toDo>
+			<d:toDo>Don't require groups to be consistent.</d:toDo>
+			<d:toDo>Define live and show that reproduction is not relevant by countering with an fictional story.</d:toDo>
+			<d:toDo>Show that consent is important, because of liability.</d:toDo>
+		</d:toDo>
+	</meta>
+	<content>
+		<chapter>
+			<title>Introduction</title>
+			<paragraph>
+				The purpose of this project is to examine intelligent things and
+				<link>
+					<text>the living together of unlike organisms</text>
+					<url>https://en.wikipedia.org/wiki/Symbiosis</url>
+				</link>
+				. Symbiosis seems to be the brains' most important objective,
+				caused by the fact that living beings don't seem to be able to
+				live alone in practice, and
+				live's most unique property is being intelligent.
+			</paragraph>
+		</chapter>
+	</content>
+</article>

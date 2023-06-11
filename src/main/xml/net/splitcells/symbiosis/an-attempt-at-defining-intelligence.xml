@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns="http://splitcells.net/sew.xsd"
+         xmlns:d="http://splitcells.net/den.xsd">
+    <meta>
+        <title>An Attempt At Defining Intelligence</title>
+        <d:task>
+            <d:todo xl:href="https://writing.stackexchange.com/questions/34783/writing-a-super-intelligent-ai">
+                It may be important to have a will.
+            </d:todo>
+            <d:toDo>Is this relevant?
+                <d:toDo xl:href="https://www.youtube.com/watch?v=szXf0VLuQLg"/>
+                <d:toDo xl:href="https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39"/>
+            </d:toDo>
+            <d:toDo>Could human rights be applicable for AI?</d:toDo>
+        </d:task>
+    </meta>
+    <content>
+        <paragraph>This article tries to forge a definition for intelligence.
+            The background of the starting point for this attempt is computer science.
+            The most important requirement for the definition is the maximization of its applicability.
+        </paragraph>
+        <chapter>
+            <title>Aspects and Assumptions Relevant to This Attempt at Defining Intelligence
+            </title>
+            <chapter>
+                <title>Turing Test: Implicit Definition of Intelligence
+                </title>
+                <paragraph>
+                    <link>
+                        <text>The Turing test</text>
+                        <url>https://en.wikipedia.org/wiki/Turing_test</url>
+                    </link>
+                    can be seen as part of an attempt at defining intelligent behavior of
+                    humans. It
+                    does not try to define intelligent human behavior
+                    explicitly, nor does
+                    it
+                    state that human behavior is not dull. Instead, it defines a way to
+                    determine, if something is a human behavior or
+                    not. If human
+                    behavior is
+                    seen as inherently intelligent, then this test classifies a subset of
+                    intelligent behaviour. It
+                    firstly isolates
+                    all important factors of the
+                    examined object and secondly strictly states, which properties can be
+                    used
+                    in order to classify the examined
+                    object in question. A downside of this
+                    approach is
+                    the fact, that not all intelligent human behavior can be classified as
+                    such,
+                    because
+                    biological processes are not considered. The test classifies a
+                    certain attribute of behavior based on an implicit definition. It
+                    is
+                    implied
+                    that human in general are able to distinguish between human behavior
+                    and
+                    other behavior that differs from them in at least one relevant
+                    property. The
+                    Turing
+                    test itself does not predict any concrete properties of the examined
+                    thing.
+                </paragraph>
+            </chapter>
+            <chapter>
+                <title>Intelligence as Global Optimization Versus Local Optimization</title>
+                <paragraph>
+                    The (algorithmic) complexity of intelligence is an important property
+                    in this context, as it seems to be seen by many people.
+                    <link>
+                        <text>The size and the number of optimized variables alone</text>
+                        <url>http://www.spektrum.de/kolumne/der-iq-reicht-nicht-mehr-aus/1502371
+                        </url>
+                    </link>
+                    are not assumed an important concern for the purpose of defining
+                    the
+                    properties of an intelligent process.
+                </paragraph>
+                <paragraph>
+                    Additionally, in the real world global solutions doesn't seem to be possible as
+                    the set of all variables is not know.
+                </paragraph>
+            </chapter>
+            <chapter>
+                <title>Emotional Intelligence</title>
+                <paragraph>Emotional intelligence is not considered to be different to
+                    a classical intelligence for the intelligence definition.
+                    In this context it is assumed, that emotional intelligence,
+                    is intelligence applied to a subset of things.
+                </paragraph>
+            </chapter>
+        </chapter>
+        <chapter>
+            <title>Objectives of Defining Intelligence</title>
+            <chapter>
+                <title>Type Signature of an Intelligence Definition</title>
+                <paragraph>Simply speaking, the aim of this definition is to
+                    determine, if a
+                    given process is intelligent or not. In this context, it is
+                    assumed that
+                    all aspects of a reviewed process are visible, in order to simplify the definition.
+                    It is also assumed, that an instance of intelligence is equivalent to
+                    an intelligent process. This in turns allows one to describe an data structure for intelligence.
+                </paragraph>
+                <paragraph>The formal type signature is:</paragraph>
+                <list>
+                    <item>Formally a process w is defined as a string of Σ, where Σ is an non empty alphabet:
+                        <quote>w ∊ Σ</quote>.
+                    </item>
+                    <item>An intelligence definition is a classifier of any process w:
+                        <quote>intelligent(w) = 1 if w is intelligent else 0</quote>
+                    </item>
+                </list>
+                <chapter>
+                    <title>Notes</title>
+                    <d:toDo>Compare intelligence as event based history vs. intelligence as decision maker in a decision
+                        tree
+                        vs. intelligence as a string.
+                    </d:toDo>
+                </chapter>
+            </chapter>
+            <chapter>
+                <title>Additional Intelligence Definition Implementation Requirements</title>
+                <paragraph>The most important requirement to such an implementation
+                    is, that it has to be useful.
+                    It should not contradict other theories except for other intelligence definition.
+                </paragraph>
+                <paragraph>Such an implementation shall be useful at least for a
+                    nonempty subset of all actors, who can benefit from intelligent process
+                    identification.
+                    In the ideal case this set should contain all such actors. An actor
+                    finds it useful to identify intelligent processes, if a
+                    cost free usage of
+                    such a
+                    definition has benefits for that actor. This implies that actors are
+                    optimization systems.
+                </paragraph>
+                <d:todo>Formalize the maximization of the usefulness of the intelligence classification.</d:todo>
+                <paragraph>The implementation shall have such a structure, that third
+                    parties can be convinced, that the given construct in fact defines intelligence.
+                </paragraph>
+            </chapter>
+            <chapter>
+                <title>Objectives' Properties</title>
+                <paragraph>
+                    The aim of defining intelligence is not entirely objective. Also,
+                    there is a formal and objective signature of an intelligence
+                    definition, the additional implementation requirements require
+                    an already present intelligence definition.
+                </paragraph>
+                <paragraph>The set of actors who can benefit from intelligent
+                    process
+                    identification, is also not completely documented in detail as it
+                    also implicitly
+                    depends on an already present intelligence definition.
+                    This in turn could lead to a circular definition.
+                </paragraph>
+                <paragraph>The fact that such a definition has only
+                    to be useful to a subset of actors, who can benefit from intelligent
+                    process
+                    identification, indicates that there are possibly a multitude of
+                    intelligence definitions. This in turn indicates, that an intelligence
+                    definition may be partially depended on the observer in question.
+                </paragraph>
+            </chapter>
+        </chapter>
+        <chapter>
+            <title>Related Speculations</title>
+            <paragraph>The possible relativity of intelligence may be related
+                to the algorithmic complexity and
+                the processing capabilities of the
+                observer and its objects in
+                question. This seems to be
+                compatible to the observation, that it is hard to describe or understand
+                intelligent behavior in detail. It
+                may even explain, why a part of artificial intelligence development
+                seems to be driven by gains
+                in information
+                processing efficiency as access to more capable
+                hardware allows one to execute
+                more
+                complex algorithms.
+            </paragraph>
+        </chapter>
+        <chapter>
+            <title>An Intelligence Definition</title>
+            <paragraph>An intelligence is defined via a classifier as this in accordance to the intelligence definition
+                signature:
+                <quote>intelligent(w) = 1 if w is a random optimization else 0</quote>.
+            </paragraph>
+            <paragraph>Randomness is defined in this context, as information/thing that is not accessible from the
+                perspective of the actor. Note that this does not state, if there is indeterminism or not.
+                This also does not state, that everything is deterministic.
+                Neither does it state, why the information is not accessible.
+            </paragraph>
+            <paragraph>A random optimization is an optimization, where the objective/constraint is random.
+                This means, that an actor is not able to determine the objective of an intelligence completely by
+                definition.
+                This also means, that intelligence is subjective by this definition.
+            </paragraph>
+            <d:toDo>Subjectivity as an parameter of the definition.</d:toDo>
+            <d:toDo>Check requirments.</d:toDo>
+            <d:toDo>Some things need to be done via intelligent beings.
+                These requirements also define intelligence.
+            </d:toDo>
+            <d:toDo>Define effective intelligence.</d:toDo>
+            <d:toDo>Define competitive intelligence.</d:toDo>
+        </chapter>
+        <chapter>
+            <title>Conclusion</title>
+            <d:toDo>The question of intelligence is irrelevant (i.e. autonomy, free will, politics already provide
+                similar definitions)
+                for most.
+            </d:toDo>
+        </chapter>
+    </content>
+</article>
