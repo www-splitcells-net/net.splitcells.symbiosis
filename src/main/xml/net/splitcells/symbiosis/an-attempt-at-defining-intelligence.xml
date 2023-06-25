@@ -16,78 +16,53 @@
         </d:task>
     </meta>
     <content>
-        <paragraph>This article tries to forge a definition for intelligence.
+        <paragraph>This article tries to forge a definition of intelligence.
             The background of the starting point for this attempt is computer science.
-            The most important requirement for the definition is the maximization of its applicability.
+            The most important requirement for the definition is the maximization of its usability.
         </paragraph>
         <chapter>
-            <title>Aspects and Assumptions Relevant to This Attempt at Defining Intelligence
+            <title>Aspects And Assumptions Relevant To This Attempt At Defining Intelligence
             </title>
             <chapter>
-                <title>Turing Test: Implicit Definition of Intelligence
+                <title>Turing Test: An Implicit Definition Of Intelligence
                 </title>
                 <paragraph>
-                    <link>
-                        <text>The Turing test</text>
-                        <url>https://en.wikipedia.org/wiki/Turing_test</url>
+                    <link url="https://en.wikipedia.org/wiki/Turing_test">
+                        The Turing test
                     </link>
-                    can be seen as part of an attempt at defining intelligent behavior of
-                    humans. It
-                    does not try to define intelligent human behavior
-                    explicitly, nor does
-                    it
-                    state that human behavior is not dull. Instead, it defines a way to
-                    determine, if something is a human behavior or
-                    not. If human
-                    behavior is
-                    seen as inherently intelligent, then this test classifies a subset of
-                    intelligent behaviour. It
-                    firstly isolates
-                    all important factors of the
-                    examined object and secondly strictly states, which properties can be
-                    used
-                    in order to classify the examined
-                    object in question. A downside of this
-                    approach is
-                    the fact, that not all intelligent human behavior can be classified as
-                    such,
-                    because
-                    biological processes are not considered. The test classifies a
-                    certain attribute of behavior based on an implicit definition. It
-                    is
-                    implied
-                    that human in general are able to distinguish between human behavior
-                    and
-                    other behavior that differs from them in at least one relevant
-                    property. The
-                    Turing
-                    test itself does not predict any concrete properties of the examined
-                    thing.
+                    can be seen as an attempt to better understand intelligent behavior of humans.
+                    It does not try to define intelligent human behavior explicitly,
+                    nor does it state that human behavior is not dull.
+                    Instead, it defines a way to determine,
+                    if something is a human behavior or not.
+                    If human behavior is seen as inherently intelligent,
+                    then this test may be able to detect a subset of intelligent behaviour.
+                    It firstly isolates all important factors of the examined subject and
+                    secondly strictly states,
+                    which properties can be used in order to classify the subject.
+                    A downside of this approach is the fact,
+                    that not all intelligent human behavior can be classified as such,
+                    because biological processes are not considered.
+                    It is implied, that human in general are able to distinguish between human behavior and
+                    other behavior.
+                    The Turing test itself does not predict any concrete properties of humans or intelligence.
                 </paragraph>
             </chapter>
             <chapter>
-                <title>Intelligence as Global Optimization Versus Local Optimization</title>
+                <title>Global Versus Local Optimization</title>
                 <paragraph>
-                    The (algorithmic) complexity of intelligence is an important property
-                    in this context, as it seems to be seen by many people.
-                    <link>
-                        <text>The size and the number of optimized variables alone</text>
-                        <url>http://www.spektrum.de/kolumne/der-iq-reicht-nicht-mehr-aus/1502371
-                        </url>
+                    Requiring intelligence to do global optimization,
+                    does not seem to make sense,
+                    as it would otherwise mean,
+                    <link url="http://www.spektrum.de/kolumne/der-iq-reicht-nicht-mehr-aus/1502371">
+                        that 2 instances of intelligence, are by definition not allowed to fight against each other.
                     </link>
-                    are not assumed an important concern for the purpose of defining
-                    the
-                    properties of an intelligent process.
-                </paragraph>
-                <paragraph>
-                    Additionally, in the real world global solutions doesn't seem to be possible as
-                    the set of all variables is not know.
                 </paragraph>
             </chapter>
             <chapter>
                 <title>Emotional Intelligence</title>
                 <paragraph>Emotional intelligence is not considered to be different to
-                    a classical intelligence for the intelligence definition.
+                    mathematical intelligence in this context.
                     In this context it is assumed, that emotional intelligence,
                     is intelligence applied to a subset of things.
                 </paragraph>
