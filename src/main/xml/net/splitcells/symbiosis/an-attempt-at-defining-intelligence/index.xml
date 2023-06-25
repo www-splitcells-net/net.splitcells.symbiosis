@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xl="http://www.w3.org/1999/xlink"
+         xmlns="http://splitcells.net/sew.xsd"
+         xmlns:d="http://splitcells.net/den.xsd">
+    <meta>
+        <title>An Attempt At Defining Intelligence</title>
+        <d:task>
+            <d:todo xl:href="https://writing.stackexchange.com/questions/34783/writing-a-super-intelligent-ai">
+                It may be important to have a will.
+            </d:todo>
+            <d:toDo>Is this relevant?
+                <d:toDo xl:href="https://www.youtube.com/watch?v=szXf0VLuQLg"/>
+                <d:toDo xl:href="https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39"/>
+            </d:toDo>
+            <d:toDo>Could human rights be applicable for AI?</d:toDo>
+        </d:task>
+    </meta>
+    <paragraph>This article tries to forge a definition of intelligence.
+        The background of the starting point for this attempt is computer science.
+        The most important requirement for the definition is the maximization of its usability.
+    </paragraph>
+    <list>
+        <item>Aspects And Assumptions Relevant To This Attempt At Defining Intelligence</item>
+        <item>Intelligence As An Algorithm</item>
+        <item>Intelligence</item>
+    </list>
+</article>

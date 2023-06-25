@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://splitcells.net/sew.xsd">
+    <meta>
+        <title>Aspects And Assumptions Relevant To This Attempt At Defining Intelligence</title>
+    </meta>
+    <chapter>
+        <title>Aspects And Assumptions Relevant To This Attempt At Defining Intelligence
+        </title>
+        <chapter>
+            <title>Turing Test: An Implicit Definition Of Intelligence
+            </title>
+            <paragraph>
+                <link url="https://en.wikipedia.org/wiki/Turing_test">
+                    The Turing test
+                </link>
+                can be seen as an attempt to better understand intelligent behavior of humans.
+                It does not try to define intelligent human behavior explicitly,
+                nor does it state that human behavior is not dull.
+                Instead, it defines a way to determine,
+                if something is a human behavior or not.
+                If human behavior is seen as inherently intelligent,
+                then this test may be able to detect a subset of intelligent behaviour.
+                It firstly isolates all important factors of the examined subject and
+                secondly strictly states,
+                which properties can be used in order to classify the subject.
+                A downside of this approach is the fact,
+                that not all intelligent human behavior can be classified as such,
+                because biological processes are not considered.
+                It is implied, that human in general are able to distinguish between human behavior and
+                other behavior.
+                The Turing test itself does not predict any concrete properties of humans or intelligence.
+            </paragraph>
+        </chapter>
+        <chapter>
+            <title>Global Versus Local Optimization</title>
+            <paragraph>
+                Requiring intelligence to do global optimization,
+                does not seem to make sense,
+                as it would otherwise mean,
+                <link url="http://www.spektrum.de/kolumne/der-iq-reicht-nicht-mehr-aus/1502371">
+                    that 2 instances of intelligence, are by definition not allowed to fight against each other.
+                </link>
+            </paragraph>
+        </chapter>
+        <chapter>
+            <title>Emotional Intelligence</title>
+            <paragraph>Emotional intelligence is not considered to be different to
+                mathematical intelligence in this context.
+                In this context it is assumed, that emotional intelligence,
+                is intelligence applied to a subset of things.
+            </paragraph>
+        </chapter>
+    </chapter>
+</article>
