@@ -1,8 +1,6 @@
 # net.splitcells.symbiosis
-
 > The purpose of this philosophic project is to examine intelligent things and
 > the living together of unlike beings in the context of informatics and open source.
-
 ## Warning
 For most visitors this repo is of no importance and
 its content is quite irritating.
@@ -15,3 +13,4 @@ Read on at your own peril.
   * [What is Morality?](src/main/xml/net/splitcells/symbiosis/what-is-morality.xml)
 * [An Attempt At Defining Intelligence](src/main/xml/net/splitcells/symbiosis/an-attempt-at-defining-intelligence/index.xml)
 * [Funding Of Free Open Source Software](src/main/xml/net/splitcells/symbiosis/free-will-as-in-free-beer.xml)
+* [Who needs free open source software?](src/main/xml/net/splitcells/symbiosis/free-open-source/who-needs-free-open-source-software.xml)
