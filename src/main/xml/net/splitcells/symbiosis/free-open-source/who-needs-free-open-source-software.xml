@@ -12,5 +12,10 @@
             This may be interesting in the context of sponsorships.
         </d:toDo>
         <d:toDo>Is abolishing FOSS possible?</d:toDo>
+        <d:toDo>
+            Externalize cost for economic entities for certain software,
+            where there is no economic incentive and need to create competing alternatives
+            (i.e. logging framework without special properties).
+        </d:toDo>
     </meta>
 </article>
