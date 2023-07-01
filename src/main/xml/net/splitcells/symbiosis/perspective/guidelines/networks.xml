@@ -71,4 +71,20 @@
             but with a different theme.
         </paragraph>
     </chapter>
+    <chapter>
+        <title>Constructive Perspective Trees For Networks</title>
+        <paragraph>
+            It is helpful to have a unambiguous perspective tree with a root,
+            that directly or indirectly links to all nodes of the network.
+            Such a tree can be thought of as the tree, that constructs the network nodes.
+            The end result is something like the file tree in a file system.
+            Therefore, every perspective is uniquely identified by the path inside the tree
+            from the root to the perspective.
+        </paragraph>
+        <paragraph>
+            This provides a way to organize data (i.e. package structure in Java) in a simple way,
+            while providing a basic initial ownership model for the data.
+            In this model, the parent of a node is the owner of the node.
+        </paragraph>
+    </chapter>
 </article>
