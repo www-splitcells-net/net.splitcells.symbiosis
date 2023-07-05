@@ -9,6 +9,7 @@
         <description></description>
         <publication_date year="2020" month="01" day_of_month="06"/>
         <license>standard</license>
+        <d:toDo>Concretely describe, why this long name exists and explain each word.</d:toDo>
     </meta>
     <chapter>
         <title>Introduction</title>
