@@ -15,7 +15,7 @@
  */
 package net.splitcells.symbiosis;
 
-import net.splitcells.dem.FileSystem;
+import net.splitcells.dem.resource.FileSystem;
 import net.splitcells.dem.environment.config.framework.OptionI;
 import net.splitcells.dem.resource.FileSystemView;
 
