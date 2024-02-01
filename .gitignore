@@ -11,6 +11,7 @@ projects/net.splitcells.dem/src/main/antlr4/net/splitcells/dem/source/code/Java1
 .project
 ### Maven ###
 target/
+.flattened-pom.xml
 ### Python
 .pydevproject
 
