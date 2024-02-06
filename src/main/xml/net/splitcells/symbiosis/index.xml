@@ -5,19 +5,12 @@
         <d:toDo>Remove <quote>free-open-source</quote> folder.
         </d:toDo>
     </meta>
-    <blockquote>
-        The purpose of this philosophic project is to examine intelligent things and
-        the living together of unlike beings in the context of informatics.
-    </blockquote>
-    <chapter>
-        <title>Warning</title>
-        <paragraph>
-            For most visitors this repo is of no importance and
-            its content is quite irritating.
-            You have be warned.
-            Read on at your own peril.
-        </paragraph>
-    </chapter>
+    <paragraph>
+        Some may define Symbiosis as living together,
+        but what does this mean?
+        Why is it so hard to define,
+        but so easy to grasp?
+    </paragraph>
     <chapter>
         <title>Table of Contents</title>
         <list>
