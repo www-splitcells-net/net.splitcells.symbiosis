@@ -2,7 +2,7 @@
 <article xmlns="http://splitcells.net/sew.xsd" xmlns:d="http://splitcells.net/den.xsd">
     <meta>
         <title>Symbiosis</title>
-        <d:toDo>Remove <quote>free-open-source</quote> folder.
+        <d:toDo>Remove <quote>free-open-source</quote> folder or reconsider adding open source and informatics context back to this project.
         </d:toDo>
     </meta>
     <paragraph>
