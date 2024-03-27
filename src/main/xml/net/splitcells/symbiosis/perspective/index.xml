@@ -23,10 +23,12 @@
         </paragraph>
         <chapter>
             <title>Informal Introduction</title>
-            <d:toDo/>
+            <d:toDo>Describe the concept.</d:toDo>
+            <d:toDo>Visualize the concept as a search tree.</d:toDo>
         </chapter>
         <chapter>
             <title>Formal Introduction</title>
+            <d:toDo>Visualize the formal intro.</d:toDo>
             <paragraph>A perspective is a node in a directed graph.
                 A <quote>network of perspectives</quote> is a directed graph.
                 A <quote>discovery based network of perspectives</quote> is a graph with multiple conditions:
@@ -48,6 +50,6 @@
     </chapter>
     <chapter>
         <title>Formal Definition</title>
-        <d:toDo/>
+        <d:toDo>Convert formal introduction into a formal definition.</d:toDo>
     </chapter>
 </article>
