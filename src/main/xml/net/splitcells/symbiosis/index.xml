@@ -2,6 +2,13 @@
 <article xmlns="http://splitcells.net/sew.xsd" xmlns:d="http://splitcells.net/den.xsd">
     <meta>
         <title>Symbiosis</title>
+        <d:tDo>
+            Add support for book format to the XML format.
+            Book format means in this context, that a set of documents has a specific natural order,
+            which can be used to render set documents as a book.
+            This provides a reading flow, so that the user can read all documents as one without complex navigation.
+            This is mostly useful for projects, that are books or similar.
+        </d:tDo>
         <d:toDo>Remove <quote>free-open-source</quote> folder or reconsider adding open source and informatics context back to this project.
         </d:toDo>
     </meta>
