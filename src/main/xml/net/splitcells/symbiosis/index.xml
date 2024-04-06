@@ -9,8 +9,6 @@
             This provides a reading flow, so that the user can read all documents as one without complex navigation.
             This is mostly useful for projects, that are books or similar.
         </d:tDo>
-        <d:toDo>Remove <quote>free-open-source</quote> folder or reconsider adding open source and informatics context back to this project.
-        </d:toDo>
     </meta>
     <paragraph>
         Some may define Symbiosis as living together,
