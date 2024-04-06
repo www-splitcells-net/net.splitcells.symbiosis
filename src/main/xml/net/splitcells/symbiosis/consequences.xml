@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<article xmlns="http://splitcells.net/sew.xsd">
+<article xmlns="http://splitcells.net/sew.xsd" xmlns:d="http://splitcells.net/den.xsd">
     <meta>
         <title>Consequences</title>
     </meta>
-    <paragraph>Using AI for government means, that AI becomes at least partially the governor.</paragraph>
+    <d:toDo>Using AI for government means, that AI becomes at least partially the governor.</d:toDo>
+    <d:toDo>Using AI for weapon targeting suggestions, means that AI will probably decide, what to shoot: https://blog.fefe.de/?ts=98efd71e</d:toDo>
 </article>
