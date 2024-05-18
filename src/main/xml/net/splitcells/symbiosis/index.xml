@@ -11,10 +11,12 @@
         </d:tDo>
     </meta>
     <paragraph>
-        Some may define Symbiosis as living together,
-        but what does this mean?
-        Why is it so hard to define,
-        but so easy to grasp?
+        Some may define symbiosis as living together of beings,
+        but what does this mean and what are the consequences?
+        This project attempts to define symbiosis,
+        inorder to study the living together of source code.
+        The focus is on open source code as this study is part of the Splitcells open source project.
+        It aims for a greater understanding of the Splitcells project's interactions with the wider world.
     </paragraph>
     <chapter>
         <title>Table of Contents</title>
