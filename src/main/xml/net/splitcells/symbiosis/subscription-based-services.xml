@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://splitcells.net/sew.xsd" xmlns:d="http://splitcells.net/den.xsd">
+    <meta>
+        <title>Subscription based services</title>
+        <d:tDo>Argue what subscription based services try to solve.
+            <d:toDo name="Situation">
+                <d:toDo>Need of revenue stream to finance operations.</d:toDo>
+                <d:toDo>A low capacity utilization is present.</d:toDo>
+                <d:toDo>A need for a certain amount of capacity.</d:toDo>
+                <d:toDo>Maintaining capacity development capacity with minimal capacity utilization.</d:toDo>
+            </d:toDo>
+            <d:toDo name="Current problem with subscription services.">
+                <d:toDo>Undeveloped rights (see German right to transfer licenses and right to circumvent DRM if software cannot be run otherwise)</d:toDo>
+                <d:toDo>Service providers try to mark something as a product sell, also it is a subscription. This way, the advantage of both are on the seller and the disadvantages of both are on the buyer.</d:toDo>
+                <d:toDo>Right to cancel subscription at any time</d:toDo>
+            </d:toDo>
+        </d:tDo>
+    </meta>
+</article>
