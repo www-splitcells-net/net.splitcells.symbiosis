@@ -2,21 +2,22 @@
 <article xmlns="http://splitcells.net/sew.xsd" xmlns:d="http://splitcells.net/den.xsd">
     <meta>
         <title>Symbiosis</title>
-        <d:tDo>
+        <d:toDo>
             Add support for book format to the XML format.
             Book format means in this context, that a set of documents has a specific natural order,
             which can be used to render set documents as a book.
             This provides a reading flow, so that the user can read all documents as one without complex navigation.
             This is mostly useful for projects, that are books or similar.
-        </d:tDo>
+        </d:toDo>
+        <d:toDo>
+            Study the living together of source code.
+            The focus is on open source code as this study is part of the Splitcells open source project.
+            It aims for a greater understanding of the Splitcells project's interactions with the wider world.
+        </d:toDo>
     </meta>
     <paragraph>
         Some may define symbiosis as living together of beings,
         but what does this mean and what are the consequences?
-        This project attempts to define symbiosis,
-        inorder to study the living together of source code.
-        The focus is on open source code as this study is part of the Splitcells open source project.
-        It aims for a greater understanding of the Splitcells project's interactions with the wider world.
     </paragraph>
     <chapter>
         <title>Table of Contents</title>
