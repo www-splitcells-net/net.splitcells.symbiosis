@@ -12,14 +12,19 @@
     </meta>
     <chapter>
         <title>Minimize Size of Perspectives</title>
+        <paragraph>
+            It is recommended to classify any perspective as a list or general perspective,
+            as general perspectives require a lot of more effort than list perspectives,
+            which can be used for archiving perspectives.
+        </paragraph>
         <paragraph>The smaller a perspective is, the easier it is, to split a perspective path
             into more smaller parts. This in turn makes it easier to construct such paths.
             Additionally, this makes it easier to create a new branch of the path, with minimal changes.
-            Furthermore, it gets easier and faster to select fitting children, when the size of the perspective is
-            decreased,
-            provided a fast evaluation of network traversal's direction.
-            Therefore, perspectives that do not represent lists, should prefer a minimal number of children of
-            the same type.
+            Furthermore, it gets easier and faster to select fitting children of a perspective,
+            when the size of the perspective is decreased,
+            which makes traversing a network easier.
+            Therefore, perspectives that do not represent lists,
+            should prefer a minimal number of children.
         </paragraph>
         <paragraph>
             Perspectives representing a list, should prefer having only elements of the same type,
