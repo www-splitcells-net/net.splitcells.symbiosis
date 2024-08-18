@@ -10,9 +10,14 @@
             This is mostly useful for projects, that are books or similar.
         </d:toDo>
         <d:toDo>
-            Study the living together of source code.
-            The focus is on open source code as this study is part of the Splitcells open source project.
-            It aims for a greater understanding of the Splitcells project's interactions with the wider world.
+            Study the living together of source code, developers, users and humans.
+            <d:toDo>The focus is on open source code as this study is part of the Splitcells open source project.
+                It aims for a greater understanding of the Splitcells project's interactions with the wider world.
+            </d:toDo>
+            <d:toDo>
+                The main purpose of some source code refactoring, is not to improve code in general,
+                but to minimize the required context for developers working on that code.
+            </d:toDo>
         </d:toDo>
     </meta>
     <paragraph>
