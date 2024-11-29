@@ -1,34 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <article xmlns="http://splitcells.net/sew.xsd" xmlns:d="http://splitcells.net/den.xsd">
     <meta>
-        <title>Symbiosis</title>
-        <d:toDo>
-            Add support for book format to the XML format.
-            Book format means in this context, that a set of documents has a specific natural order,
-            which can be used to render set documents as a book.
-            This provides a reading flow, so that the user can read all documents as one without complex navigation.
-            This is mostly useful for projects, that are books or similar.
-        </d:toDo>
-        <d:toDo>
-            Study the living together of source code, developers, users and humans.
-            <d:toDo>The focus is on open source code as this study is part of the Splitcells open source project.
-                It aims for a greater understanding of the Splitcells project's interactions with the wider world.
-            </d:toDo>
-            <d:toDo>
-                The main purpose of some source code refactoring, is not to improve code in general,
-                but to minimize the required context for developers working on that code.
-            </d:toDo>
-        </d:toDo>
+        <title>Symbiosis Project</title>
     </meta>
     <paragraph>
-        Some may define symbiosis as living together of beings,
-        but what does this mean and what are the consequences?
+        Some may define symbiosis as living together of beings, but what does this mean and what are the consequences?
+        Why is it so easy to understand, but so hard to grasp?
+        In this project we try to define and explore symbiosis from the perspective of computer science.
+    </paragraph>
+    <paragraph>
+        How does one model living beings mathematically in order to reason about it?
+        Life seems to be mainly focused on self-sustaining and reproduction.
+        A straight forward approach to formulate this mathematically is to define
+        this focus as an optimization that maximizes self-sustaining of every existing living instance
+        and to maximize the amount of living instances.
+        As we are just starting this journey,
+        the weighting between these goals is considered to be unknown or random for now.
+    </paragraph>
+    <paragraph>
+        In order to simplify things even further at the beginning,
+        we consider the definition of symbiosis to be the living together of any optimizations.
+        Thereby we also rule out, that the definition is too narrow.
+        The optimizations may be represented by actual living beings or just its genes,
+        but computer programs and their source code are also considered as such in this context.
+    </paragraph>
+    <paragraph>
+        We now have a semantic starting point and goal.
+        If the definition turns out to be false,
+        we will adapt it together,
+        if not we were lucky.
+        So, let's get started and see where the voyage will take us.
+        Here we go into the vast ocean of nescience.
     </paragraph>
     <chapter>
         <title>Table of Contents</title>
         <list>
             <item>
-                <link post="net/splitcells/symbiosis/perspective/index">Perspective Theory as a Model of Everything</link>
+                <link post="net/splitcells/symbiosis/perspective/index">Perspective Theory as a Model of Everything
+                </link>
                 <list>
                     <link post="net/splitcells/symbiosis/the-hug-of-life-and-death">The Hug of Life and Death</link>
                     <link post="net/splitcells/symbiosis/free-will-as-in-free-beer">Free Will as in Free Beer</link>
@@ -36,9 +45,13 @@
                 </list>
             </item>
             <item>
-                <link post="net/splitcells/symbiosis/an-attempt-at-defining-intelligence/index">An Attempt at Defining Intelligence</link>
+                <link post="net/splitcells/symbiosis/an-attempt-at-defining-intelligence/index">An Attempt at Defining
+                    Intelligence
+                </link>
                 <list>
-                    <link post="net/splitcells/symbiosis/an-attempt-at-defining-intelligence/consequences">Consequences</link>
+                    <link post="net/splitcells/symbiosis/an-attempt-at-defining-intelligence/consequences">
+                        Consequences
+                    </link>
                 </list>
             </item>
             <link post="net/splitcells/symbiosis/conclusions">Conclusions</link>
