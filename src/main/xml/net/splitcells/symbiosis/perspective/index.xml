@@ -5,9 +5,11 @@
          xmlns:d="http://splitcells.net/den.xsd" xmlns:p="http://splitcells.net/private.xsd"
          xsi:schemaLocation="http://splitcells.net/sew.xsd sew.xsd">
     <meta>
-        <title>Perspective Theory</title>
-        <description></description>
-        <publication_date year="2020" month="01" day_of_month="06"/>
+        <title>Perspective Model</title>
+        <d:toDo>Do not introduce all of `Discovery based Networks of Perspectives and Changes` at once,
+            but start small and
+            treat `Discovery based Networks of Perspectives and Changes` like a small experimental result.
+        </d:toDo>
     </meta>
     <chapter>
         <title>Introduction</title>
