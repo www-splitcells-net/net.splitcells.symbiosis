@@ -37,24 +37,41 @@
         <title>Table of Contents</title>
         <list>
             <item>
-                <link post="net/splitcells/symbiosis/perspective/index">Perspective Theory as a Model of Everything
-                </link>
-                <list>
-                    <link post="net/splitcells/symbiosis/the-hug-of-life-and-death">The Hug of Life and Death</link>
-                    <link post="net/splitcells/symbiosis/free-will-as-in-free-beer">Free Will as in Free Beer</link>
-                    <link post="net/splitcells/symbiosis/what-is-morality">What is Morality?</link>
-                </list>
+                <link post="net/splitcells/symbiosis/perspective/index">Perspective Model</link>
             </item>
             <item>
                 <link post="net/splitcells/symbiosis/an-attempt-at-defining-intelligence/index">An Attempt at Defining
                     Intelligence
                 </link>
                 <list>
+                    <link post="net/splitcells/symbiosis/an-attempt-at-defining-intelligence/aspects-and-assumptions-relevant-to-this-attempt-at-defining-intelligence">
+                        Aspects And Assumptions Relevant To This Attempt At Defining Intelligence
+                    </link>
+                    <link post="net/splitcells/symbiosis/an-attempt-at-defining-intelligence/intelligence-as-an-complex-algorithm">
+                        Intelligence As An Complex Algorithm
+                    </link>
                     <link post="net/splitcells/symbiosis/an-attempt-at-defining-intelligence/consequences">
                         Consequences
                     </link>
                 </list>
             </item>
+            <item>
+                <link post="net/splitcells/symbiosis/phenomenons-of-life/index">
+                    Phenomenons of Life
+                </link>
+                <list>
+                    <link post="net/splitcells/symbiosis/phenomenons-of-life/free-will-as-in-free-beer">
+                        Free Will as in Free Beer
+                    </link>
+                    <link post="net/splitcells/symbiosis/phenomenons-of-life/the-hug-of-life-and-death">
+                        The Hug of Life and Death
+                    </link>
+                    <link post="net/splitcells/symbiosis/phenomenons-of-life/what-is-morality">
+                        What is morality?
+                    </link>
+                </list>
+            </item>
+            <item>Open Source Software</item>
             <link post="net/splitcells/symbiosis/conclusions">Conclusions</link>
         </list>
     </chapter>
