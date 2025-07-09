@@ -26,13 +26,6 @@
         the weighting between these goals is considered to be unknown or random for now.
     </paragraph>
     <paragraph>
-        In order to simplify things even further at the beginning,
-        we consider the definition of symbiosis to be the living together of any optimizations.
-        Thereby we also rule out, that the definition is too narrow.
-        The optimizations may be represented by actual living beings or just its genes,
-        but computer programs and their source code are also considered as such in this context.
-    </paragraph>
-    <paragraph>
         We now have a semantic starting point and goal.
         If the definition turns out to be false,
         we will adapt it together,
