@@ -38,13 +38,11 @@
         if not we were lucky.
         So, let's get started and see where the voyage will take us.
     </paragraph>
-    <d:todo>Why is source code considered as living beings? What is life? Explain with comparison of virus, that is also considered life in this context.</d:todo>
     <chapter>
         <title>Table of Contents</title>
         <list>
-            <item>
-                <link post="net/splitcells/symbiosis/perspective/index">Perspective Model</link>
-            </item>
+            <link post="net/splitcells/symbiosis/perspective/software-as-a-living-being">Software as a Living Being</link>
+            <link post="net/splitcells/symbiosis/perspective/index">Perspective Model</link>
             <item>
                 <link post="net/splitcells/symbiosis/an-attempt-at-defining-intelligence/index">An Attempt at Defining
                     Intelligence
