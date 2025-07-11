@@ -17,9 +17,14 @@
         In this project we try to define and explore symbiosis from the perspective of computer science.
         This prioritization focuses on such thinks like the relationship of humans to artificial relationship.
     </paragraph>
-    <d:todo>State that symbiosis of software developers is one focus,
-        that is the consequence of the computer science perspective.
-    </d:todo>
+    <paragraph>In IT source code has a special place.
+        Other than many other things, source code is something were many people can work together and
+        influence each other via information dynamically.
+        <d:todo>State that symbiosis of software developers is one focus,
+            that is the consequence of the computer science perspective.
+            Compare with music and research papers.
+        </d:todo>
+    </paragraph>
     <paragraph>
         How does one model living beings mathematically in order to reason about it?
         Life seems to be mainly focused on self-sustaining and reproduction.
