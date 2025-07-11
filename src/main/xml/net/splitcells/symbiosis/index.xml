@@ -73,6 +73,13 @@
                     </link>
                 </list>
             </item>
+            <item>
+                <item>Intelligence in Practice</item>
+                <list>
+                    <item>Neural Turing Machine</item>
+                    <item>Alien Roboter</item>
+                </list>
+            </item>
             <item>Open Source Software</item>
             <link post="net/splitcells/symbiosis/conclusions">Conclusions</link>
         </list>
