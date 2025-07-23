@@ -32,18 +32,19 @@
     </paragraph>
     <paragraph>
         In IT source code has a special place.
-        Other than many other things, program source code is something were many people can work on together and
-        influence each other via information dynamically.
+        Other than many other things, program source code is something were many people can work on one thing together and
+        influence each other via information dynamically,
+        on unusually large scale.
     </paragraph>
     <paragraph>
-        Let's take a book as a counterpoint, where often many people are working, in order to publish a single book,
+        Let's take a book as a counterpoint, where often many people are working together, in order to publish a single book,
         but were only a handful of authors exist.
         Yes, there are exceptions, but these are probably very few.
-        What probably will occur more often, is that other people translate the text or create fan fiction,
-        but further continuing to write the story happens relatively rarely.
-        Also, the fan fictions most probably won't reference each other.
+        What probably will occur a lot more often, is other people translating the text or creating fan fiction.
+        Further continuing the main and canon story happens relatively rarely.
+        Additionally, fan fictions most probably won't reference each other, which together create a larger piece of work.
         In short, all related authors are only relatively loosely coupled.
-        See the bible or The Lord of the Rings, for example.
+        See great works like the Bible or The Lord of the Rings, for example.
     </paragraph>
     <paragraph>
         In the software world, an extreme example is Linux, where about
