@@ -50,7 +50,12 @@
         In the software world, an extreme example is Linux, where about
         <link url="https://en.wikipedia.org/wiki/Linux_kernel#History">14,000 programmers contributed to Linux until June 2015 (citation of 2025-07-14)</link>.
         14,000 people authoring a bundle of mostly text, that references each other.
-        This is not about belittling book authors.
+        Also, many people create software, that specifically runs on Linux.
+        For such applications to continue to work on Linux,
+        these need to track and adapt to changes in the Linux kernel.
+        Some app developers even introduce changes into the kernel,
+        in order to improve the performance or new required functionality.
+        In short, many in IT many things are interdependent to each other over a long period of time.
     </paragraph>
     <d:todo/>
     <paragraph>
