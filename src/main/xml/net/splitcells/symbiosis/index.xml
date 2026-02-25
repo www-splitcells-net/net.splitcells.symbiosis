@@ -38,7 +38,7 @@
         Let's take a book as a counterpoint, where often many people are working together, in order to publish a single book,
         but were only a handful of authors exist.
         Yes, there are exceptions, but these are probably very few in between.
-        What probably will occur a lot more often, is other people  creating derived works like translations or fan fiction.
+        What probably will occur a lot more often, is other people creating derived works like translations or fan fiction.
         Further continuing the main and canon story happens relatively rarely.
         Fan fictions most probably won't reference each other, which together create a larger piece of work.
         In short, all related authors are only cooperatively loosely coupled.
@@ -55,22 +55,16 @@
         in order to improve the performance or to implement new required functionality.
         In short, many things in IT are interdependent to each other over a long period of time.
     </paragraph>
-    <d:todo/>
     <paragraph>
-        How does one model living beings mathematically in order to reason about it?
-        Life seems to be mainly focused on self-sustaining and reproduction.
-        A straight forward approach to formulate this mathematically is to define
-        this focus as an optimization that maximizes self-sustaining of every existing living instance
-        and to maximize the amount of living instances.
-        As we are just starting this journey,
-        the weighting between these goals is considered to be unknown or random for now.
+        Symbiotic life is obviously focused on self-sustaining and reproduction,
+        but can we model and reason about this phenomenon?
+        Is there more to this concept?
+        Maybe symbiosis is something even simpler than that?
+        Could a mathematical model help making predictions or philosophical conclusions?
+        What relationship would such a math have to our very subjective perception and our feelings?
     </paragraph>
     <paragraph>
-        We now have a semantic starting point and goal.
-        If the definition turns out to be false,
-        we will adapt it together,
-        if not we were lucky.
-        So, let's get started and see where the voyage will take us.
+        We all have misconceptions, but we have to start somewhere, in order to reach our goal of understanding.
     </paragraph>
     <chapter>
         <title>Table of Contents</title>
