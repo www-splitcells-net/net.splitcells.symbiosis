@@ -23,39 +23,37 @@
         but everything we feel is reliant on things we do not feel,
         as without our parent's past we might not exist at all.
         So it is not surprising, that everything to do with oneself has to do with others.
-        Even the act of formulating ones thoughts is reliant on the language created by other for others.
+        Even the act of formulating ones thoughts is reliant on the language created by others for others.
     </paragraph>
     <paragraph>
         Some may define symbiosis as living together of beings, but what does this mean and what are the consequences?
-        Why is it so easy to understand, but so hard to grasp?
-        In this project we try to define and explore symbiosis from the perspective of computer science.
+        In this project we try to define and explore symbiosis from the perspective of computer science and the view of an egoist.
     </paragraph>
     <paragraph>
         In IT source code has a special place.
-        Other than many other things, program source code is something were many people can work on one thing together and
-        influence each other via information dynamically,
-        on unusually large scale.
+        Other than many other things, program source code is something were many people can work together on one thing
+        and thereby influence each other on unusually large scale.
     </paragraph>
     <paragraph>
         Let's take a book as a counterpoint, where often many people are working together, in order to publish a single book,
         but were only a handful of authors exist.
-        Yes, there are exceptions, but these are probably very few.
-        What probably will occur a lot more often, is other people translating the text or creating fan fiction.
+        Yes, there are exceptions, but these are probably very few in between.
+        What probably will occur a lot more often, is other people  creating derived works like translations or fan fiction.
         Further continuing the main and canon story happens relatively rarely.
-        Additionally, fan fictions most probably won't reference each other, which together create a larger piece of work.
-        In short, all related authors are only relatively loosely coupled.
-        See great works like the Bible or The Lord of the Rings, for example.
+        Fan fictions most probably won't reference each other, which together create a larger piece of work.
+        In short, all related authors are only cooperatively loosely coupled.
+        See great works like the Bible or The Lord of the Rings.
     </paragraph>
     <paragraph>
-        In the software world, an extreme example is Linux, where about
+        In the software world, an extreme example is the Linux kernel, where about
         <link url="https://en.wikipedia.org/wiki/Linux_kernel#History">14,000 programmers contributed to Linux until June 2015 (citation of 2025-07-14)</link>.
         14,000 people authoring a bundle of mostly text, that references each other.
         Also, many people create software, that specifically runs on Linux.
         For such applications to continue to work on Linux,
-        these need to track and adapt to changes in the Linux kernel.
+        these need to track and adapt to changes in the Linux kernel itself.
         Some app developers even introduce changes into the kernel,
-        in order to improve the performance or new required functionality.
-        In short, many in IT many things are interdependent to each other over a long period of time.
+        in order to improve the performance or to implement new required functionality.
+        In short, many things in IT are interdependent to each other over a long period of time.
     </paragraph>
     <d:todo/>
     <paragraph>
