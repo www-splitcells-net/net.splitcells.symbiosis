@@ -10,6 +10,7 @@
     -->
     <meta>
         <title>Perspective Model</title>
+        <d:toDo>Simplify this and its name.</d:toDo>
         <d:toDo>Do not introduce all of `Discovery based Networks of Perspectives and Changes` at once,
             but start small and
             treat `Discovery based Networks of Perspectives and Changes` like a small experimental result.
@@ -17,6 +18,7 @@
     </meta>
     <chapter>
         <title>Introduction</title>
+        <d:current/>
         <paragraph>The name
             <quote>Discovery based Networks of Perspectives and Changes</quote>
             or in short
